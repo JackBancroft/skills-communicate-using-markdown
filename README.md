@@ -79,7 +79,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ---
 
-Meaningful message
+Meaningful message (?<!#)#{1,6}([ \t](.*))?$
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
